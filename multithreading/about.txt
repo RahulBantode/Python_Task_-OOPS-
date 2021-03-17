@@ -1,0 +1,4 @@
+The directory contains the application on multithreading in python
+To run the thread concurrently under the one main process. or every process have one default thread 
+which is known as main thread.
+And directory contains the application of synchronization between the threads.
