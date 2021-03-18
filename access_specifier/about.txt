@@ -1,0 +1,6 @@
+In python there is no exact word like private public protected
+but we can achieve it by following
+var = 10    ... its public variable
+_var = 20   .. this is protected variable
+__var = 30  .. this is private variable
+All the demonstration of these concept is developed in the .py file.
